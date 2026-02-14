@@ -1,9 +1,9 @@
 
 # Health Analytics Dashboard Report  
-**Comprehensive Analysis of Nigerian Health Data (312K Patients)**  
+**Comprehensive Analysis of Nigerian Health Data**  
 
 ---
-<img width="64" height="46" alt="image" src="https://github.com/user-attachments/assets/051b1fd1-ec53-418a-8341-34b46e855619" />
+<img width="952" height="678" alt="image" src="https://github.com/user-attachments/assets/6af6176a-45f6-4af8-9904-780ec2fd9592" />
 
 <img width="947" height="675" alt="image" src="https://github.com/user-attachments/assets/ccf13789-04ce-47ff-a936-9640896abe30" />
 
